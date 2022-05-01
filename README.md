@@ -4,7 +4,7 @@ Hi 👋 My name is Allex Radu
 Senior Micro-services Software Developer
 ----------------------------------------
 
-I love programming. I work for as Senior Micro-services Software Developer for multi-national eCommerce company. https://www.linkedin.com/in/allexradu
+I love programming. I work as Senior Micro-services Software Developer for multi-national eCommerce company. https://www.linkedin.com/in/allexradu
 
 * 🌍  I'm based in Bucharest, Romania
 * 🖥️  See my portfolio at [Radergy](http://www.radergy.ro)
