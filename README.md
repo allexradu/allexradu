@@ -8,7 +8,7 @@ I love programming. I work as Senior Micro-services Software Developer for multi
 
 * 🌍  I'm based in Bucharest, Romania
 * 🖥️  See my portfolio at [AllexRadu.com](http://www.allexradu.com)
-* 💼  See my company website at [Radergy.RO][https://radergy.ro]
+* 💼  See my company website at [Radergy.RO](https://radergy.ro)
 * ✉️  You can contact me at [dev@allexradu.com](mailto:dev@allexradu.com)
 * 🚀  I'm currently working on [Radergy Shopping Website](http://radergy.ro)
 * 🧠  I'm learning Socket.IO
