@@ -7,7 +7,7 @@ Senior Micro-services Software Developer
 I love programming. I work as Senior Micro-services Software Developer for multi-national eCommerce company. https://www.linkedin.com/in/allexradu
 
 * 🌍  I'm based in Bucharest, Romania
-* 🖥️  See my portfolio at [Radergy](http://www.radergy.ro)
+* 🖥️  See my portfolio at [Radergy](http://www.allexradu.com)
 * ✉️  You can contact me at [dev@allexradu.com](mailto:dev@allexradu.com)
 * 🚀  I'm currently working on [Radergy Shopping Website](http://radergy.ro)
 * 🧠  I'm learning Socket.IO
